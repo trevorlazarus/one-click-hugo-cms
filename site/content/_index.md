@@ -1,20 +1,61 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: Helicord Transmissions
+subtitle: A Megadyne Group Company
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: ''
+  text: >-
+    Helicord transmissions Private Limited (Formerly Samsons Rubber Industries
+    Private Limited) was established in 1972 in India with an objective to
+    manufacture and market Vee and Fan Belts under the brand name "HELICORD".
+    Today HELICORD is a specialist in Automotive Timing Belts, Poly VBelts
+    (Multi ribbed V Belts) and Raw Edge V Belts in Cogged, Helitens, Plain and
+    Laminated constructions.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Certifications
+  text: >-
+    HELICORD is ISO9001 2002, ISO/TS 16949 2002, ISO 14001 2004 certified
+    company. HELICORD is in the process of integrating OHSAS 18001 with ISO
+    14001.
+
+
+
+    HELICORD has several OEM customers in India and won the best performance
+    awards and certificates from certain OEMs.
+
+
+    HELICORD's drive belts conform to International standards such as
+    IS/BS/DIN/SAE/JASO etc besides OEM standards.
+
+
+    HELICORD exports the Timing Belts, Poly V Belts and Raw Edge Belts to
+    various countries to mention a few: Australia, Hongkong, US, UK, Turkey,
+    Algeria, Mauritania, Bolivia etc.
+
+
+    HELICORD is the first Indian Manufacturer to produce Profile Ground Poly V
+    Belts.
+
+
+    HELICORD is the first Indian Manufacturer to successfully develop and
+    introduce into the market HELICORD Synchro Drive Timing Belts for a wide
+    range of passenger cars.
+
+
+    HELICORD is the first Indian company to introduce drive belts in high
+    performance, non conventional environment friendly materials.
+     
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/illustrations-coffee.svg
+    text: ''
+  - image: /img/illustrations-coffee-gear.svg
+    text: >-
+      We offer a small, but carefully curated selection of brewing gear and
+      tools for every taste and experience level. No matter if you roast your
+      own beans or just bought your first french press, you’ll find a gadget to
+      fall in love with in our shop.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: QUALITY POLICY
+  text: "\nWe at HELICORD are Committed to manufacture and supply Drive Belts of consistent quality with an \nobjective of :\n \t \n\tAchieving Customer satisfaction\n\tComplying to the requirements of the product\n\tTo Continually improve the effectiveness of Quality Management System\n\tImproving Business Results"
 ---
 
